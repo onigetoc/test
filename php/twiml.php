@@ -2,7 +2,7 @@
 header('Content-type: text/xml');
  
 // put a phone number you've verified with Twilio to use as a caller ID number
-//$callerId = "+14504000103";
+//$callerId = "+XXXXXXXXXX";
 if (isset($_REQUEST['FromNumber'])) {
     $callerId = htmlspecialchars($_REQUEST['FromNumber']);
 }
