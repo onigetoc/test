@@ -5,10 +5,6 @@ include '../Services/Twilio/Capability.php'; // Enter the right path to Capabili
 $accountSid = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
 $authToken  = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
 
-// put your Twilio API Test Credentials // DO NOT WORK
-//$accountSid = 'AC5a29de0e0c578733d191888029a01163';
-//$authToken  = 'ad8bb8ea4cf6973605dd97b6b90fa364';
-
 // put your Twilio Application Sid here
 $appSid     = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
 
